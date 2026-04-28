@@ -1,1 +1,3 @@
 # PRG1_2026_Week1_Git
+
+My first git repo
